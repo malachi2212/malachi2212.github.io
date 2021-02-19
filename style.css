@@ -3,7 +3,7 @@
    padding: 0;
 }
 #banner{
-    background:linear-gradient(rgba(0,0,0,0.5),#009688),url(images/Ghanesevlag.jpg);
+    background:linear-gradient(rgba(0,0,0,0.5),#009688),url(../images/Ghanesevlag.jpg);
     background-size: cover;
     background-position: center;
     height: 100vh;
@@ -96,7 +96,7 @@ nav ul li a{
   margin-top: 15px;
 }
 #bannerAbout{
-  background:linear-gradient(rgba(0,0,0,0.5),#009688),url(images/Ghanianpeople.jpg);
+  background:linear-gradient(rgba(0,0,0,0.5),#009688),url(../images/Ghanianpeople.jpg);
   background-size: cover;
   background-position: center;
   height: 100vh;
@@ -112,13 +112,13 @@ table {
   background-color: #f1f1c1;
 }
 #bannercontact{
- background: linear-gradient(rgba(0,0,0,0.5),#009688),url(images/Contact.jpg);
+ background: linear-gradient(rgba(0,0,0,0.5),#009688),url(../images/Contact.jpg);
  background-size: cover;
  background-position: center;
  height: 100vh;
 }
 #bannermore{
-  background: linear-gradient(rgba(0,0,0,0.5),#009688),url(images/More.jpg);
+  background: linear-gradient(rgba(0,0,0,0.5),#009688),url(../images/More.jpg);
   background-size: cover;
   background-position: center;
   height: 100vh;
